@@ -1,0 +1,4 @@
+repository "The Whispering Spire/The Whispering Spire@1397235@cloud"
+  path "/"
+    br "/main"
+    co "/main"
